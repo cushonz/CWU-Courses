@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Grasshopper","l":"getJumpDist()"},{"p":"<Unnamed>","c":"Grasshopper","l":"Grasshopper()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Grasshopper","l":"setJumpDist(double)"}]
